@@ -99,6 +99,7 @@ body, html {
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 .project-btn {
   display: inline-block;
   margin-top: 10px;
@@ -114,6 +115,8 @@ body, html {
   background-color: #009688;
 }
 
+=======
+>>>>>>> 535e16a8e7e8f976bdfa61a2782e6ea819614603
 .footer {
   display: flex;
   justify-content: space-between;
